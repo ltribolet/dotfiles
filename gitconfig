@@ -26,3 +26,5 @@
 	insteadOf = ssh://git@github.com/shopify/
 [pull]
 	rebase = false
+[init]
+	defaultBranch = main
